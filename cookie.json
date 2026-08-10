@@ -1,5 +1,5 @@
 {
-    "code": 200,
-    "message": "success",
-    "set_cookie": "__hdnea__=st=1786381180~exp=1786402780~acl=/*~hmac=fa0b831c1d44251180071a80c363f0468090756ef07773e99cfb1e60d280780d"
+    "code": 419,
+    "message": "Token is expired",
+    "set_cookie": null
 }
